@@ -1,0 +1,47 @@
+{
+  "SE428152702DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Quintinsstraße 6, 55131 Mainz, Deutschland",
+    "receiver": "Walter Slesak, Feldgasse 11, 2453 Sommerein, Österreich",
+    "price": "9.000,00 €",
+    "description": "Hersteller: Boom Trike<br>Typ: Family 5i ML<br>Fahrgestelnummer: WBC5BML127S002627<br>Erstzulassung: 05/2007<br>KM laut Vorbesitzer: 21.545 km<br>Leistung: 39 kW (53 PS)<br>Hubraum: 1600 cm³<br>Farbe: Blau<br><br>Das Trike ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.<br>inkl. Koffer/Top Case.",
+    "address": "Walter Slesak<br>Feldgasse 11<br>2453 Sommerein<br>Österreich<br>Telefon: +43 699 11917109",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "10.03.2026",
+    "deliveryDate": "13.03.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
