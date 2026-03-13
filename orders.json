@@ -1,6 +1,6 @@
 {
   "SE428152702DE": {
-    "status": "Versandvorbereitung",
+    "status": "Warten auf Zahlung",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Quintinsstraße 6, 55131 Mainz, Deutschland",
     "receiver": "Walter Slesak, Feldgasse 11, 2453 Sommerein, Österreich",
@@ -25,8 +25,8 @@
         "url": "docs/AGB.pdf"
       }
     ],
-    "orderDate": "10.03.2026",
-    "deliveryDate": "13.03.2026",
+    "orderDate": "13.03.2026",
+    "deliveryDate": "19-20.03.2026",
     "pickup": {
       "street": "",
       "postal_code": "",
